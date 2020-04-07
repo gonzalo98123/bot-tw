@@ -1,0 +1,16 @@
+{
+  "name": "bot-tw",
+  "version": "1.0.0",
+  "description": "Bot de JR10",
+  "start": "main.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Romero",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.0.10",
+    "twit": "^2.2.11"
+  }
+}
